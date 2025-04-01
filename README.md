@@ -1,5 +1,5 @@
 # ParamBlitz
-ParamBlitz is a Splatoon 2 tool that extracts decrypted parameter hashes (alongside other things) from the game while gameplay is active. Currently, this only targets v3.1.0, but should be able to be easily ported to other versions.
+ParamBlitz is a Splatoon 2 tool that extracts decrypted parameter hashes (alongside other things) from the game while gameplay is active. Currently, the built version is for Japanese v3.1.0, but should be able to be easily ported to other versions.
 
 At the moment, this tool has ONLY been tested on Ryujinx, and may not work or require additional work to function on original hardware or Yuzu. Support will not be provided.
 
